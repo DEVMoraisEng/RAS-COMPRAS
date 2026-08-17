@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-17T21:14:28",
+  "geradoEm": "2026-08-17T21:17:19",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,16 @@
     "Guilherme"
   ],
   "atividades": [
+    {
+      "id": "3bfc5ab5-32d3-8189-8c89-edd6db1bb4f1",
+      "nome": "Fazer atualização dos pix dos fornecedores.",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
     {
       "id": "3bfc5ab5-32d3-8139-a285-fb46761d357f",
       "nome": "Tentar parar de comprar com fornecedores que exigem pagamento imediato.",
