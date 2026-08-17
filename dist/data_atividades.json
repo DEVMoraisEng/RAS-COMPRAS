@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-17T20:57:19",
+  "geradoEm": "2026-08-17T21:14:28",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,36 @@
     "Guilherme"
   ],
   "atividades": [
+    {
+      "id": "3bfc5ab5-32d3-8139-a285-fb46761d357f",
+      "nome": "Tentar parar de comprar com fornecedores que exigem pagamento imediato.",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3bfc5ab5-32d3-8135-ac96-c3a94a6dae1d",
+      "nome": "Descobrir como é feito o cálculo de imposto IPI da Acril. E padronizar os valores.",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3bfc5ab5-32d3-8161-b6db-fec389e7af39",
+      "nome": "Criar o hábito de colocar as taxas de boleto da Total.",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
     {
       "id": "3bfc5ab5-32d3-8111-ba4a-e5837ace1697",
       "nome": "Elaborar pautas da reunião com os engenheiros",
