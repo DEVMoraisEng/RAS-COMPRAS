@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-17T20:33:26",
+  "geradoEm": "2026-08-17T20:57:19",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -13,12 +13,22 @@
   ],
   "atividades": [
     {
-      "id": "3bfc5ab5-32d3-809b-b7b2-ec23a7573e94",
-      "nome": "TESTE 2",
+      "id": "3bfc5ab5-32d3-8111-ba4a-e5837ace1697",
+      "nome": "Elaborar pautas da reunião com os engenheiros",
       "setor": "Guilherme",
       "responsavel": "Guilherme",
-      "prioridade": "",
-      "status": "",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3bfc5ab5-32d3-8142-bd61-c82946ce5d63",
+      "nome": "Elaborar pautas da reunião com os engenheiros",
+      "setor": "Paula",
+      "responsavel": "Paula",
+      "prioridade": "Alta",
+      "status": "A Fazer",
       "semana": "2026-08-17",
       "obs": ""
     },
