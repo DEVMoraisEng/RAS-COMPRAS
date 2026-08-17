@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-17T20:13:02",
+  "geradoEm": "2026-08-17T20:33:26",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -28,7 +28,7 @@
       "setor": "Paula",
       "responsavel": "Paula",
       "prioridade": "",
-      "status": "",
+      "status": "Em Andamento",
       "semana": "2026-08-17",
       "obs": ""
     }
