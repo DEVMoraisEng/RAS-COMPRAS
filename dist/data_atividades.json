@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-18T16:16:52",
+  "geradoEm": "2026-08-18T16:47:35",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -18,7 +18,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Alta",
-      "status": "A Fazer",
+      "status": "Em Andamento",
       "semana": "2026-08-17",
       "obs": ""
     },
@@ -28,7 +28,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Alta",
-      "status": "A Fazer",
+      "status": "Em Andamento",
       "semana": "2026-08-17",
       "obs": ""
     },
@@ -38,7 +38,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Alta",
-      "status": "A Fazer",
+      "status": "Concluído",
       "semana": "2026-08-17",
       "obs": ""
     },
@@ -48,7 +48,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Alta",
-      "status": "A Fazer",
+      "status": "Concluído",
       "semana": "2026-08-17",
       "obs": ""
     },
@@ -58,7 +58,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Alta",
-      "status": "A Fazer",
+      "status": "Em Andamento",
       "semana": "2026-08-17",
       "obs": ""
     },
