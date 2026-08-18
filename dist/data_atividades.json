@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-18T17:16:06",
+  "geradoEm": "2026-08-18T18:01:51",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,26 @@
     "Guilherme"
   ],
   "atividades": [
+    {
+      "id": "3c0c5ab5-32d3-8195-b424-f62ba6624183",
+      "nome": "Conferir possibilidade de comprar a estrutura dos telhados do condomínio com a ENGELAR.",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": "\"Como precisamos realizar a compra de todo o material de uma vez, teremos um desembolso considerável do nosso caixa. Normalmente, emitimos essa cobrança para o cliente e seguimos o fluxo financeiro normalmente. Porém, pensando em uma alternativa que funcione para ambos, podemos fazer da seguinte forma:\nNós realizamos toda a compra do material e arcamos com esse pagamento. Vocês fariam um sinal de 30% do valor do orçamento e deixamos a entrega programada para janeiro. Em janeiro, cobramos o saldo restante.\n\nAté lá, existe uma possibilidade muito grande de aumento no preço do aço, principalmente considerando o cenário atual. Nesse formato, nós assumiremos esse risco e vocês não sofrerão nenhum reajuste no valor já acordado.\""
+    },
+    {
+      "id": "3c0c5ab5-32d3-8103-be33-e3057e1d4754",
+      "nome": "Conferir possibilidade de comprar a estrutura dos telhados do condomínio com a ENGELAR.",
+      "setor": "Paula",
+      "responsavel": "Paula",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": "\"Como precisamos realizar a compra de todo o material de uma vez, teremos um desembolso considerável do nosso caixa. Normalmente, emitimos essa cobrança para o cliente e seguimos o fluxo financeiro normalmente. Porém, pensando em uma alternativa que funcione para ambos, podemos fazer da seguinte forma:\nNós realizamos toda a compra do material e arcamos com esse pagamento. Vocês fariam um sinal de 30% do valor do orçamento e deixamos a entrega programada para janeiro. Em janeiro, cobramos o saldo restante.\n\nAté lá, existe uma possibilidade muito grande de aumento no preço do aço, principalmente considerando o cenário atual. Nesse formato, nós assumiremos esse risco e vocês não sofrerão nenhum reajuste no valor já acordado.\""
+    },
     {
       "id": "3bfc5ab5-32d3-8189-8c89-edd6db1bb4f1",
       "nome": "Fazer atualização dos pix dos fornecedores.",
@@ -69,16 +89,6 @@
       "responsavel": "Paula",
       "prioridade": "Alta",
       "status": "A Fazer",
-      "semana": "2026-08-17",
-      "obs": ""
-    },
-    {
-      "id": "3bfc5ab5-32d3-8016-9fb3-da3d9e8c0ab6",
-      "nome": "TESTE 1",
-      "setor": "Paula",
-      "responsavel": "Paula",
-      "prioridade": "",
-      "status": "Em Andamento",
       "semana": "2026-08-17",
       "obs": ""
     }
