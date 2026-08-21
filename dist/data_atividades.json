@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-21T18:19:05",
+  "geradoEm": "2026-08-21T19:17:55",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -8,10 +8,21 @@
     "Pendente"
   ],
   "setorOptions": [
+    "Wenzel",
     "Paula",
     "Guilherme"
   ],
   "atividades": [
+    {
+      "id": "3c3c5ab5-32d3-8016-900b-ec740362acde",
+      "nome": "teste",
+      "setor": "Wenzel",
+      "responsavel": "Wenzel",
+      "prioridade": "Média",
+      "status": "",
+      "semana": "",
+      "obs": ""
+    },
     {
       "id": "3c0c5ab5-32d3-8195-b424-f62ba6624183",
       "nome": "Conferir possibilidade de comprar a estrutura dos telhados do condomínio com a ENGELAR.",
