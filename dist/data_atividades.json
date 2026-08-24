@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-24T12:21:21",
+  "geradoEm": "2026-08-24T12:25:49",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -13,6 +13,16 @@
     "Guilherme"
   ],
   "atividades": [
+    {
+      "id": "3c6c5ab5-32d3-81ae-8e32-d950c0b8c55b",
+      "nome": "Apenas para informação: na semana passada fizemos a reunião de alinhamento com os engenheiros e dentre as definições iremos atualizar a planilha dos mestres visando maior compatibilidade com a realidade no canteiro de obras. As novas planilhas vão começar a valer para as proximas obras a começarem",
+      "setor": "Paula",
+      "responsavel": "Paula",
+      "prioridade": "Média",
+      "status": "Em Andamento",
+      "semana": "2026-08-24",
+      "obs": ""
+    },
     {
       "id": "3c3c5ab5-32d3-8016-900b-ec740362acde",
       "nome": "teste",
@@ -99,8 +109,8 @@
       "setor": "Paula",
       "responsavel": "Paula",
       "prioridade": "Alta",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-08-24",
+      "status": "Concluído",
+      "semana": "2026-08-17",
       "obs": ""
     }
   ]
