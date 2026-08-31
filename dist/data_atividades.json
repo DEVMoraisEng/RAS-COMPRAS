@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-31T12:48:03",
+  "geradoEm": "2026-08-31T13:05:19",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -13,6 +13,46 @@
     "Guilherme"
   ],
   "atividades": [
+    {
+      "id": "3cdc5ab5-32d3-8107-a586-e88fde345737",
+      "nome": "Irei elaborar a primeira planilha de medição de excluisiva de instalaçoes hidrossanitárias",
+      "setor": "Paula",
+      "responsavel": "Paula",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-31",
+      "obs": ""
+    },
+    {
+      "id": "3cdc5ab5-32d3-81d2-b169-e3183f3b05ee",
+      "nome": "Conferir sobre as ordens de compras antigas que ainda não foram colocadas para pagamento, cancelando as que forem necessárias",
+      "setor": "Wenzel",
+      "responsavel": "Wenzel",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-08-31",
+      "obs": ""
+    },
+    {
+      "id": "3cdc5ab5-32d3-816c-ad48-e17596266a87",
+      "nome": "Conferir sobre as ordens de compras antigas que ainda não foram colocadas para pagamento, cancelando as que forem necessárias",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-08-31",
+      "obs": ""
+    },
+    {
+      "id": "3cdc5ab5-32d3-81b0-91a8-dc80bc4bd79c",
+      "nome": "Conferir sobre as ordens de compras antigas que ainda não foram colocadas para pagamento, cancelando as que forem necessárias",
+      "setor": "Paula",
+      "responsavel": "Paula",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-08-31",
+      "obs": ""
+    },
     {
       "id": "3cdc5ab5-32d3-8148-a6d0-daba32854001",
       "nome": "Essa semana iremos fazer alguns teste com o Wenzel sobre ele ajudar com a parte de \"recebimento de material\" para mantermos isso de forma ativa semanalmente",
@@ -29,8 +69,8 @@
       "setor": "Paula",
       "responsavel": "Paula",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-08-31",
+      "status": "Concluído",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -59,8 +99,8 @@
       "setor": "Paula",
       "responsavel": "Paula",
       "prioridade": "Alta",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-08-31",
+      "status": "Concluído",
+      "semana": "2026-08-24",
       "obs": "\"Como precisamos realizar a compra de todo o material de uma vez, teremos um desembolso considerável do nosso caixa. Normalmente, emitimos essa cobrança para o cliente e seguimos o fluxo financeiro normalmente. Porém, pensando em uma alternativa que funcione para ambos, podemos fazer da seguinte forma:\nNós realizamos toda a compra do material e arcamos com esse pagamento. Vocês fariam um sinal de 30% do valor do orçamento e deixamos a entrega programada para janeiro. Em janeiro, cobramos o saldo restante.\n\nAté lá, existe uma possibilidade muito grande de aumento no preço do aço, principalmente considerando o cenário atual. Nesse formato, nós assumiremos esse risco e vocês não sofrerão nenhum reajuste no valor já acordado.\""
     },
     {
