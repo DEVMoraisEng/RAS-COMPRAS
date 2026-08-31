@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-31T17:44:19",
+  "geradoEm": "2026-08-31T19:44:52",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -39,7 +39,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Alta",
-      "status": "A Fazer",
+      "status": "Em Andamento",
       "semana": "2026-08-31",
       "obs": ""
     },
@@ -89,7 +89,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Alta",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-08-31",
       "obs": "\"Como precisamos realizar a compra de todo o material de uma vez, teremos um desembolso considerável do nosso caixa. Normalmente, emitimos essa cobrança para o cliente e seguimos o fluxo financeiro normalmente. Porém, pensando em uma alternativa que funcione para ambos, podemos fazer da seguinte forma:\nNós realizamos toda a compra do material e arcamos com esse pagamento. Vocês fariam um sinal de 30% do valor do orçamento e deixamos a entrega programada para janeiro. Em janeiro, cobramos o saldo restante.\n\nAté lá, existe uma possibilidade muito grande de aumento no preço do aço, principalmente considerando o cenário atual. Nesse formato, nós assumiremos esse risco e vocês não sofrerão nenhum reajuste no valor já acordado.\""
     },
@@ -109,7 +109,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Alta",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Em Andamento",
       "semana": "2026-08-31",
       "obs": ""
     },
@@ -119,7 +119,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Alta",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Em Andamento",
       "semana": "2026-08-31",
       "obs": ""
     },
