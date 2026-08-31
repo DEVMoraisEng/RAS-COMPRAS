@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-31T19:44:52",
+  "geradoEm": "2026-08-31T20:28:46",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -13,6 +13,36 @@
     "Guilherme"
   ],
   "atividades": [
+    {
+      "id": "3cdc5ab5-32d3-818c-88a9-c0476907b9af",
+      "nome": "Informar os fornecedores que as NFs do condomínio deverão ser faturadas OBRIGATORIAMENTE para o endereço do condomínio. Além disso, deve constar o número do CNO.",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-08-31",
+      "obs": ""
+    },
+    {
+      "id": "3cdc5ab5-32d3-81be-8b38-d9fed99cd6af",
+      "nome": "Fazer correção dos orçamentos baseado nas solicitações",
+      "setor": "Wenzel",
+      "responsavel": "Wenzel",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-31",
+      "obs": ""
+    },
+    {
+      "id": "3cdc5ab5-32d3-8180-94ff-e0bc4d4b3885",
+      "nome": "Olhar sobre uma possível conta da empresa no Mercado Livre",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Baixa",
+      "status": "A Fazer",
+      "semana": "2026-08-31",
+      "obs": ""
+    },
     {
       "id": "3cdc5ab5-32d3-8107-a586-e88fde345737",
       "nome": "Irei elaborar a primeira planilha de medição de excluisiva de instalaçoes hidrossanitárias",
