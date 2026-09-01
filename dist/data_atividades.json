@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-01T17:01:47",
+  "geradoEm": "2026-09-01T19:34:08",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,26 @@
   ],
   "atividades": [
     {
+      "id": "3cec5ab5-32d3-81b4-b555-db97b792a9cb",
+      "nome": "Fazer correção do orçamento RPB 24 QD 26A LT 06",
+      "setor": "Wenzel",
+      "responsavel": "Wenzel",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-31",
+      "obs": ""
+    },
+    {
+      "id": "3cec5ab5-32d3-81c1-9e31-e59caca3b36b",
+      "nome": "Fazer correção do orçamento RPB 24 QD 26A LT 10",
+      "setor": "Wenzel",
+      "responsavel": "Wenzel",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-31",
+      "obs": ""
+    },
+    {
       "id": "3cdc5ab5-32d3-818c-88a9-c0476907b9af",
       "nome": "Informar os fornecedores que as NFs do condomínio deverão ser faturadas OBRIGATORIAMENTE para o endereço do condomínio. Além disso, deve constar o número do CNO.",
       "setor": "Guilherme",
@@ -25,11 +45,11 @@
     },
     {
       "id": "3cdc5ab5-32d3-81be-8b38-d9fed99cd6af",
-      "nome": "Fazer correção dos orçamentos baseado nas solicitações",
+      "nome": "Fazer correção do orçamento RPB 24 QD 26A LT 07",
       "setor": "Wenzel",
       "responsavel": "Wenzel",
       "prioridade": "Média",
-      "status": "A Fazer",
+      "status": "Em Andamento",
       "semana": "2026-08-31",
       "obs": ""
     },
@@ -59,7 +79,7 @@
       "setor": "Wenzel",
       "responsavel": "Wenzel",
       "prioridade": "Alta",
-      "status": "A Fazer",
+      "status": "Em Andamento",
       "semana": "2026-08-31",
       "obs": ""
     },
