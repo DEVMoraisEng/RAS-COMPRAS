@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-04T11:49:21",
+  "geradoEm": "2026-09-04T15:16:39",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -21,7 +21,8 @@
       "prioridade": "Baixa",
       "status": "A Fazer",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3cec5ab5-32d3-81c1-9e31-e59caca3b36b",
@@ -31,7 +32,8 @@
       "prioridade": "Baixa",
       "status": "A Fazer",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3cdc5ab5-32d3-818c-88a9-c0476907b9af",
@@ -41,7 +43,8 @@
       "prioridade": "Alta",
       "status": "A Fazer",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3cdc5ab5-32d3-81be-8b38-d9fed99cd6af",
@@ -51,7 +54,8 @@
       "prioridade": "Alta",
       "status": "Em Andamento",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3cdc5ab5-32d3-8180-94ff-e0bc4d4b3885",
@@ -61,7 +65,8 @@
       "prioridade": "Baixa",
       "status": "A Fazer",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3cdc5ab5-32d3-8107-a586-e88fde345737",
@@ -71,7 +76,8 @@
       "prioridade": "Média",
       "status": "Concluído",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3cdc5ab5-32d3-81d2-b169-e3183f3b05ee",
@@ -81,7 +87,8 @@
       "prioridade": "Alta",
       "status": "Em Andamento",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3cdc5ab5-32d3-816c-ad48-e17596266a87",
@@ -91,7 +98,8 @@
       "prioridade": "Alta",
       "status": "Em Andamento",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3cdc5ab5-32d3-81b0-91a8-dc80bc4bd79c",
@@ -101,7 +109,8 @@
       "prioridade": "Alta",
       "status": "Em Andamento",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3cdc5ab5-32d3-8148-a6d0-daba32854001",
@@ -111,7 +120,8 @@
       "prioridade": "Média",
       "status": "Em Andamento",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3c6c5ab5-32d3-81ae-8e32-d950c0b8c55b",
@@ -121,7 +131,8 @@
       "prioridade": "Média",
       "status": "Concluído",
       "semana": "2026-08-24",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3c3c5ab5-32d3-8016-900b-ec740362acde",
@@ -131,7 +142,8 @@
       "prioridade": "Média",
       "status": "",
       "semana": "",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-8195-b424-f62ba6624183",
@@ -141,7 +153,8 @@
       "prioridade": "Alta",
       "status": "Concluído",
       "semana": "2026-08-31",
-      "obs": "\"Como precisamos realizar a compra de todo o material de uma vez, teremos um desembolso considerável do nosso caixa. Normalmente, emitimos essa cobrança para o cliente e seguimos o fluxo financeiro normalmente. Porém, pensando em uma alternativa que funcione para ambos, podemos fazer da seguinte forma:\nNós realizamos toda a compra do material e arcamos com esse pagamento. Vocês fariam um sinal de 30% do valor do orçamento e deixamos a entrega programada para janeiro. Em janeiro, cobramos o saldo restante.\n\nAté lá, existe uma possibilidade muito grande de aumento no preço do aço, principalmente considerando o cenário atual. Nesse formato, nós assumiremos esse risco e vocês não sofrerão nenhum reajuste no valor já acordado.\""
+      "obs": "\"Como precisamos realizar a compra de todo o material de uma vez, teremos um desembolso considerável do nosso caixa. Normalmente, emitimos essa cobrança para o cliente e seguimos o fluxo financeiro normalmente. Porém, pensando em uma alternativa que funcione para ambos, podemos fazer da seguinte forma:\nNós realizamos toda a compra do material e arcamos com esse pagamento. Vocês fariam um sinal de 30% do valor do orçamento e deixamos a entrega programada para janeiro. Em janeiro, cobramos o saldo restante.\n\nAté lá, existe uma possibilidade muito grande de aumento no preço do aço, principalmente considerando o cenário atual. Nesse formato, nós assumiremos esse risco e vocês não sofrerão nenhum reajuste no valor já acordado.\"",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-8103-be33-e3057e1d4754",
@@ -151,7 +164,8 @@
       "prioridade": "Alta",
       "status": "Concluído",
       "semana": "2026-08-24",
-      "obs": "\"Como precisamos realizar a compra de todo o material de uma vez, teremos um desembolso considerável do nosso caixa. Normalmente, emitimos essa cobrança para o cliente e seguimos o fluxo financeiro normalmente. Porém, pensando em uma alternativa que funcione para ambos, podemos fazer da seguinte forma:\nNós realizamos toda a compra do material e arcamos com esse pagamento. Vocês fariam um sinal de 30% do valor do orçamento e deixamos a entrega programada para janeiro. Em janeiro, cobramos o saldo restante.\n\nAté lá, existe uma possibilidade muito grande de aumento no preço do aço, principalmente considerando o cenário atual. Nesse formato, nós assumiremos esse risco e vocês não sofrerão nenhum reajuste no valor já acordado.\""
+      "obs": "\"Como precisamos realizar a compra de todo o material de uma vez, teremos um desembolso considerável do nosso caixa. Normalmente, emitimos essa cobrança para o cliente e seguimos o fluxo financeiro normalmente. Porém, pensando em uma alternativa que funcione para ambos, podemos fazer da seguinte forma:\nNós realizamos toda a compra do material e arcamos com esse pagamento. Vocês fariam um sinal de 30% do valor do orçamento e deixamos a entrega programada para janeiro. Em janeiro, cobramos o saldo restante.\n\nAté lá, existe uma possibilidade muito grande de aumento no preço do aço, principalmente considerando o cenário atual. Nesse formato, nós assumiremos esse risco e vocês não sofrerão nenhum reajuste no valor já acordado.\"",
+      "origem": ""
     },
     {
       "id": "3bfc5ab5-32d3-8189-8c89-edd6db1bb4f1",
@@ -161,7 +175,8 @@
       "prioridade": "Alta",
       "status": "Em Andamento",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3bfc5ab5-32d3-8139-a285-fb46761d357f",
@@ -171,7 +186,8 @@
       "prioridade": "Alta",
       "status": "Em Andamento",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3bfc5ab5-32d3-8135-ac96-c3a94a6dae1d",
@@ -181,7 +197,8 @@
       "prioridade": "Alta",
       "status": "Concluído",
       "semana": "2026-08-17",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3bfc5ab5-32d3-8161-b6db-fec389e7af39",
@@ -191,7 +208,8 @@
       "prioridade": "Alta",
       "status": "Concluído",
       "semana": "2026-08-17",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3bfc5ab5-32d3-8111-ba4a-e5837ace1697",
@@ -201,7 +219,8 @@
       "prioridade": "Alta",
       "status": "Concluído",
       "semana": "2026-08-17",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3bfc5ab5-32d3-8142-bd61-c82946ce5d63",
@@ -211,7 +230,8 @@
       "prioridade": "Alta",
       "status": "Concluído",
       "semana": "2026-08-17",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     }
   ]
 }
