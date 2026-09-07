@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-07T05:22:06",
+  "geradoEm": "2026-09-07T07:06:32",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -19,8 +19,8 @@
       "setor": "Wenzel",
       "responsavel": "Wenzel",
       "prioridade": "Baixa",
-      "status": "A Fazer",
-      "semana": "2026-08-31",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -30,8 +30,8 @@
       "setor": "Wenzel",
       "responsavel": "Wenzel",
       "prioridade": "Baixa",
-      "status": "A Fazer",
-      "semana": "2026-08-31",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -41,8 +41,8 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Alta",
-      "status": "A Fazer",
-      "semana": "2026-08-31",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -52,8 +52,8 @@
       "setor": "Wenzel",
       "responsavel": "Wenzel",
       "prioridade": "Alta",
-      "status": "Em Andamento",
-      "semana": "2026-08-31",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -63,8 +63,8 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Baixa",
-      "status": "A Fazer",
-      "semana": "2026-08-31",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -85,8 +85,8 @@
       "setor": "Wenzel",
       "responsavel": "Wenzel",
       "prioridade": "Alta",
-      "status": "Em Andamento",
-      "semana": "2026-08-31",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -96,8 +96,8 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Alta",
-      "status": "Em Andamento",
-      "semana": "2026-08-31",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -107,8 +107,8 @@
       "setor": "Paula",
       "responsavel": "Paula",
       "prioridade": "Alta",
-      "status": "Em Andamento",
-      "semana": "2026-08-31",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -118,8 +118,8 @@
       "setor": "Paula",
       "responsavel": "Paula",
       "prioridade": "Média",
-      "status": "Em Andamento",
-      "semana": "2026-08-31",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -173,8 +173,8 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Alta",
-      "status": "Em Andamento",
-      "semana": "2026-08-31",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -184,8 +184,8 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Alta",
-      "status": "Em Andamento",
-      "semana": "2026-08-31",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
