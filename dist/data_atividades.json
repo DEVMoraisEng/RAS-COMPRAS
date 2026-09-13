@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-13T19:02:07",
+  "geradoEm": "2026-09-13T21:51:52",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -42,7 +42,7 @@
       "responsavel": "Guilherme",
       "prioridade": "Alta",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -64,7 +64,7 @@
       "responsavel": "Guilherme",
       "prioridade": "Baixa",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -174,7 +174,7 @@
       "responsavel": "Guilherme",
       "prioridade": "Alta",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -185,7 +185,7 @@
       "responsavel": "Guilherme",
       "prioridade": "Alta",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
