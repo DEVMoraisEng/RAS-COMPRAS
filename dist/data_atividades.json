@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-14T07:35:31",
+  "geradoEm": "2026-09-14T07:40:07",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -20,7 +20,7 @@
       "responsavel": "Wenzel",
       "prioridade": "Baixa",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -31,7 +31,7 @@
       "responsavel": "Wenzel",
       "prioridade": "Baixa",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -53,7 +53,7 @@
       "responsavel": "Wenzel",
       "prioridade": "Alta",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -86,7 +86,7 @@
       "responsavel": "Wenzel",
       "prioridade": "Alta",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -97,7 +97,7 @@
       "responsavel": "Guilherme",
       "prioridade": "Alta",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -108,7 +108,7 @@
       "responsavel": "Paula",
       "prioridade": "Alta",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -119,7 +119,7 @@
       "responsavel": "Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
