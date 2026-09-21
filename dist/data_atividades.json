@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-21T07:44:02",
+  "geradoEm": "2026-09-21T14:11:19",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -13,6 +13,17 @@
     "Guilherme"
   ],
   "atividades": [
+    {
+      "id": "3e2c5ab5-32d3-8156-b5d8-de533b8dbab9",
+      "nome": "Mandar premissas do contrato do condomínio",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-21",
+      "obs": "",
+      "origem": "Enviada de › RAS Líderes › Diretoria › Júlio"
+    },
     {
       "id": "3cec5ab5-32d3-81b4-b555-db97b792a9cb",
       "nome": "Fazer correção do orçamento RPB 24 QD 26A LT 06",
